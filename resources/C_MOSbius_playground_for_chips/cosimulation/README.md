@@ -50,7 +50,7 @@ The command for running the Librelane Flow is: **librelane --pdk gf180mcuD confi
 Once the flow ends, you can check all the files with all the reports associated with the different steps in the runs folder.
 
 <p align="center">
-   <img src="./img/librealane1.png" width="600" />
+   <img src="./img/librelane1.png" width="600" />
 </p> 
 
 For opening the final layout, use the following command in the final/klayout_gds/ folder: **klayout -e counter.gds**
